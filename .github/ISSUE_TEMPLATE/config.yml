@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Reportar una vulnerabilidad
+    url: mailto:acaparros@otazu.com
+    about: No abras una issue pública para vulnerabilidades. Escribe a acaparros@otazu.com.
+  - name: Repositorios de conocimiento
+    url: https://github.com/Grupo-MO
+    about: El acceso a los repositorios de Otazu y Maploca se gestiona por equipos.
